@@ -1,0 +1,368 @@
+{
+    "_id": "36232774|None",
+    "id": "36232774",
+    "infons": {},
+    "passages": [
+        {
+            "infons": {
+                "journal": "Int J Mol Sci;2022Sep29; 23 (19) . doi:10.3390/ijms231911468",
+                "year": "2022",
+                "type": "title",
+                "authors": "Long M, You C, Song Q, Hu LXJ, Guo Z, Yao Q, Hou W, Sun W, Liang B, Zhou X, Liu Y, Hu T, ",
+                "section": "Title"
+            },
+            "offset": 0,
+            "text": "AR Expression Correlates with Distinctive Clinicopathological and Genomic Features in Breast Cancer Regardless of ESR1 Expression Status.",
+            "sentences": [],
+            "annotations": [
+                {
+                    "id": "2",
+                    "infons": {
+                        "identifier": "MESH:D001943",
+                        "type": "Disease"
+                    },
+                    "text": "Breast Cancer",
+                    "locations": [
+                        {
+                            "offset": 86,
+                            "length": 13
+                        }
+                    ]
+                },
+                {
+                    "id": "3",
+                    "infons": {
+                        "identifier": "2099",
+                        "type": "Gene",
+                        "ncbi_homologene": "47906"
+                    },
+                    "text": "ESR1",
+                    "locations": [
+                        {
+                            "offset": 114,
+                            "length": 4
+                        }
+                    ]
+                }
+            ],
+            "relations": []
+        },
+        {
+            "infons": {
+                "type": "abstract",
+                "section": "Abstract"
+            },
+            "offset": 138,
+            "text": "Androgen receptor (AR) expression is frequently observed in breast cancer, but its association with estrogen receptor (ER) expression in breast cancer remains unclear. This study analyzed the clinicopathological and molecular features associated with AR negativity in both ER-positive and ER-negative breast cancer, trying to elucidate the molecular correlation between AR and ER. Our results showed that AR negativity was associated with different clinicopathological characteristics and molecular features in ER-positive and ER-negative breast cancer. Moreover, AR-positive breast cancer has better clinicopathological features than AR-negative breast cancer, especially in the ER-negative subtype. These results suggest that the role of AR in ER-negative breast cancer is distinctive from that in ER-positive breast cancer.",
+            "sentences": [],
+            "annotations": [
+                {
+                    "id": "23",
+                    "infons": {
+                        "identifier": "367",
+                        "type": "Gene",
+                        "ncbi_homologene": "28"
+                    },
+                    "text": "Androgen receptor",
+                    "locations": [
+                        {
+                            "offset": 138,
+                            "length": 17
+                        }
+                    ]
+                },
+                {
+                    "id": "24",
+                    "infons": {
+                        "identifier": "MESH:D001943",
+                        "type": "Disease"
+                    },
+                    "text": "breast cancer",
+                    "locations": [
+                        {
+                            "offset": 198,
+                            "length": 13
+                        }
+                    ]
+                },
+                {
+                    "id": "25",
+                    "infons": {
+                        "identifier": "2099",
+                        "type": "Gene",
+                        "ncbi_homologene": "47906"
+                    },
+                    "text": "estrogen receptor",
+                    "locations": [
+                        {
+                            "offset": 238,
+                            "length": 17
+                        }
+                    ]
+                },
+                {
+                    "id": "26",
+                    "infons": {
+                        "identifier": "2099",
+                        "type": "Gene",
+                        "ncbi_homologene": "47906"
+                    },
+                    "text": "ER",
+                    "locations": [
+                        {
+                            "offset": 257,
+                            "length": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "27",
+                    "infons": {
+                        "identifier": "MESH:D001943",
+                        "type": "Disease"
+                    },
+                    "text": "breast cancer",
+                    "locations": [
+                        {
+                            "offset": 275,
+                            "length": 13
+                        }
+                    ]
+                },
+                {
+                    "id": "28",
+                    "infons": {
+                        "identifier": "2099",
+                        "type": "Gene",
+                        "ncbi_homologene": "47906"
+                    },
+                    "text": "ER",
+                    "locations": [
+                        {
+                            "offset": 411,
+                            "length": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "29",
+                    "infons": {
+                        "identifier": "2099",
+                        "type": "Gene",
+                        "ncbi_homologene": "47906"
+                    },
+                    "text": "ER",
+                    "locations": [
+                        {
+                            "offset": 427,
+                            "length": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "30",
+                    "infons": {
+                        "identifier": "MESH:D001943",
+                        "type": "Disease"
+                    },
+                    "text": "breast cancer",
+                    "locations": [
+                        {
+                            "offset": 439,
+                            "length": 13
+                        }
+                    ]
+                },
+                {
+                    "id": "31",
+                    "infons": {
+                        "identifier": "2099",
+                        "type": "Gene",
+                        "ncbi_homologene": "47906"
+                    },
+                    "text": "ER",
+                    "locations": [
+                        {
+                            "offset": 515,
+                            "length": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "32",
+                    "infons": {
+                        "identifier": "2099",
+                        "type": "Gene",
+                        "ncbi_homologene": "47906"
+                    },
+                    "text": "ER",
+                    "locations": [
+                        {
+                            "offset": 649,
+                            "length": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "33",
+                    "infons": {
+                        "identifier": "2099",
+                        "type": "Gene",
+                        "ncbi_homologene": "47906"
+                    },
+                    "text": "ER",
+                    "locations": [
+                        {
+                            "offset": 665,
+                            "length": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "34",
+                    "infons": {
+                        "identifier": "MESH:D001943",
+                        "type": "Disease"
+                    },
+                    "text": "breast cancer",
+                    "locations": [
+                        {
+                            "offset": 677,
+                            "length": 13
+                        }
+                    ]
+                },
+                {
+                    "id": "35",
+                    "infons": {
+                        "identifier": "MESH:D009369",
+                        "type": "Disease"
+                    },
+                    "text": "cancer",
+                    "locations": [
+                        {
+                            "offset": 721,
+                            "length": 6
+                        }
+                    ]
+                },
+                {
+                    "id": "36",
+                    "infons": {
+                        "identifier": "MESH:D001943",
+                        "type": "Disease"
+                    },
+                    "text": "breast cancer",
+                    "locations": [
+                        {
+                            "offset": 785,
+                            "length": 13
+                        }
+                    ]
+                },
+                {
+                    "id": "37",
+                    "infons": {
+                        "identifier": "2099",
+                        "type": "Gene",
+                        "ncbi_homologene": "47906"
+                    },
+                    "text": "ER",
+                    "locations": [
+                        {
+                            "offset": 818,
+                            "length": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "38",
+                    "infons": {
+                        "identifier": "2099",
+                        "type": "Gene",
+                        "ncbi_homologene": "47906"
+                    },
+                    "text": "ER",
+                    "locations": [
+                        {
+                            "offset": 884,
+                            "length": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "39",
+                    "infons": {
+                        "identifier": "MESH:D001943",
+                        "type": "Disease"
+                    },
+                    "text": "breast cancer",
+                    "locations": [
+                        {
+                            "offset": 896,
+                            "length": 13
+                        }
+                    ]
+                },
+                {
+                    "id": "40",
+                    "infons": {
+                        "identifier": "2099",
+                        "type": "Gene",
+                        "ncbi_homologene": "47906"
+                    },
+                    "text": "ER",
+                    "locations": [
+                        {
+                            "offset": 938,
+                            "length": 2
+                        }
+                    ]
+                },
+                {
+                    "id": "41",
+                    "infons": {
+                        "identifier": "MESH:D009369",
+                        "type": "Disease"
+                    },
+                    "text": "cancer",
+                    "locations": [
+                        {
+                            "offset": 957,
+                            "length": 6
+                        }
+                    ]
+                }
+            ],
+            "relations": []
+        }
+    ],
+    "relations": [],
+    "pmid": 36232774,
+    "pmcid": null,
+    "created": {
+        "$date": 1665856266069
+    },
+    "accessions": [
+        "disease@MESH:D001943",
+        "gene@2099",
+        "gene@367",
+        "disease@MESH:D009369"
+    ],
+    "journal": "Int J Mol Sci",
+    "year": 2022,
+    "authors": [
+        "Long M",
+        "You C",
+        "Song Q",
+        "Hu LXJ",
+        "Guo Z",
+        "Yao Q",
+        "Hou W",
+        "Sun W",
+        "Liang B",
+        "Zhou X",
+        "Liu Y",
+        "Hu T"
+    ]
+}
